@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="text_grop">发起群聊</string>
+    <string name="text_add">添加好友</string>
+    <string name="text_scan">扫一扫</string>
+    <string name="text_mon">收付款</string>
+    <string name="text_help">帮助与反馈</string>
+    <string name="title">微信</string>
+</resources>
